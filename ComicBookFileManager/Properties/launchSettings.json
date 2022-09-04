@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ComicBookFileManager": {
+      "commandName": "Project",
+      "commandLineArgs": "/i\r\n\"C:\\Users\\DR\\Documents\\Mangas\\Dragon Ball\\Capitolo 01\"\r\n\"C:\\Users\\DR\\Documents\\Mangas\\Dragon Ball\\Capitolo 02\""
+    }
+  }
+}
